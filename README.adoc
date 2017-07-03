@@ -1,2 +1,5 @@
-== SD2017
-Spring Days 2017 presentation
+== Spring Days 2017 presentation 
+This repository contains the keynote and pdfs for the "Data Pipelines in the Cloud" presentation.
+
+If you wish to recreate the twitter analytics example shown during the presentation it can be found 
+https://github.com/spring-cloud/spring-cloud-dataflow-samples/tree/master/analytics/twitter-analytics [here]
